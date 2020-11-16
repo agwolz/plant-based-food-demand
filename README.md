@@ -1,2 +1,2 @@
-# plant-based-food-demand
-Coding practice to understand supply and demand of PBFs.
+# plant_based_food_demand
+Demand forecasting of plant-based foods, with various supply constraints, using Python.
